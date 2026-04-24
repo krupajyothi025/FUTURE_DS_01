@@ -66,11 +66,25 @@ The goal is to identify revenue trends, top-performing categories, high-profit r
 - Revisit pricing for low-margin items  
 
 ---
+## 📊 Python Dashboard
+
+An interactive dashboard is created using Streamlit.
+
+Features:
+- KPI metrics (Sales, Profit, Orders)
+- Monthly sales trend
+- Sales by region and category
+- Top 10 products
+- Interactive filters
+
+To run:
+streamlit run dashboard.py
 
 ## 📁 Folder Structure
 FUTURE_DS_01/
 │── analysis.ipynb
 │── sales_data.csv
+│── dashboard.py      
 │── README.md
 
 ---
